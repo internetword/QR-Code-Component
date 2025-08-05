@@ -31,7 +31,7 @@ figure {
 img {
   max-inline-size: 100%;
   border-radius: 15px;
-  max-block-size: 80%;
+  max-block-size: 50%;
 }
 
 .attribution {
