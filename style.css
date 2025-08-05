@@ -26,6 +26,7 @@ figure {
   background-color: white;
   padding: .9rem;
   box-shadow: 1px 1px 10px 1px hsl(220, 15%, 85%);
+  max-block-size: 80%;
 }
 
 img {
